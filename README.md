@@ -52,7 +52,7 @@ O **Mini RPG Multiplayer** é um jogo de batalha por turnos onde dois jogadores 
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/Rafael-Borges318/mini-rpg-multiplayer.git
+git clone https://github.com/otavioalx/event.git
 cd mini-rpg-multiplayer
 
 # 2. Instale a dependência
